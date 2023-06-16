@@ -1,5 +1,5 @@
 # Calowry - Machine Learning Team
-Team Member:
+Team Members:
 - Moch. Aden Taftazani - m151dsx3404@bangkit.academy
 - Ralfie Mirza Mediyanto - m151dsx1315@bangkit.academy
 
