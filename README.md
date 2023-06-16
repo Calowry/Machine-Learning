@@ -9,4 +9,4 @@ Machine learning team is responsible for:
 - Converting the model into TFLite in order to be used by android
 - Deploying the model into android
   
-Our team utilizied the pre-trained InceptionV3 weights and added a unique dense layer at the end to serve as the classifier to achieve a more than 97% level of confidence.
+Our team utilizied the pre-trained InceptionV3 weights and added a unique dense layer at the end to serve as the classifier to achieve an accuracy nearing 97%.
